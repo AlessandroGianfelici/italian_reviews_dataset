@@ -1,8 +1,7 @@
 # Italian reviews dataset
 A dataset of italian reviews to train sentiment classification models. 
 
-This dataset has been collected from the internet using web scraping techniques. For more info, you can take a look to the code employed:
-
+This dataset has been collected from the internet using web scraping techniques. For further information take a look to the code:
 ```html
 https://github.com/AlessandroGianfelici/trustpilot_spider.git
 ```
