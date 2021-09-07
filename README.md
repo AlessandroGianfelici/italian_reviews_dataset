@@ -6,6 +6,8 @@ This dataset has been collected from the internet using web scraping techniques.
 https://github.com/AlessandroGianfelici/trustpilot_spider.git
 ```
 
+## Data
+
 For each data point, the dataset contains the company name (hashed for privacy reasons), the title of the review, the text of the review and the number of stars (from 1 to 5). 
 
 As far as I know, this is the largest sentiment classification dataset for italian language freely available online.
